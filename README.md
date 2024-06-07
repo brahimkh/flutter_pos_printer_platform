@@ -179,3 +179,4 @@ info.plist add:
 If you think that this project has helped you with your developments, you can support this project, any support is much appreciated.
 
 [![Paypal](https://raw.githubusercontent.com/arthas1888/flutter_pos_printer_platform/main/btn-sm-paypal-payment.png)](https://www.paypal.com/donate/?hosted_button_id=92HK6VNCK7MUY)# flutter_pos_printer_platform
+# flutter_pos_printer_platform
